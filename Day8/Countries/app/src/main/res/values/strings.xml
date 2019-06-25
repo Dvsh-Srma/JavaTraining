@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CountryList</string>
+    <array name="countries">
+        <item>India</item>
+        <item>China</item>
+        <item>Bangladesh</item>
+        <item>Nepal</item>
+        <item>Sri Lanka</item>
+        <item>Pakistan</item>
+    </array>
+</resources>
