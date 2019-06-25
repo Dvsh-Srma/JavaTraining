@@ -1,0 +1,11 @@
+﻿Android is a stack of softwares which includes linux based kernel, middleware, key applications.
+
+Main components of android application are activity, intent, service, content, provider broadcast receiver.
+
+Activity: Single user screen for the application which performs certain task.
+Intent: It is an interprocess communicator which tells activities what to do.
+Service: Faceless activity which runs in the background and performs certain task.
+Broadcast Receiver: It handles the system by broadcasted notification and responds accordingly.
+Content Provider: It is database management system which provides content to other processor within the system.
+
+ 
