@@ -8,4 +8,3 @@ Service: Faceless activity which runs in the background and performs certain tas
 Broadcast Receiver: It handles the system by broadcasted notification and responds accordingly.
 Content Provider: It is database management system which provides content to other processor within the system.
 
- 
